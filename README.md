@@ -1,4 +1,4 @@
-# todo_app_local_storage
+# daily_life_app_local_storage
 
 A new Flutter project.
 
